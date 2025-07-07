@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+    height: 100vh;
+    background-image:url(./chef.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    
+
+
+}
+h2{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 10vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    font-weight: 100vh;
+    font-size: 15px;
+}
